@@ -3,7 +3,7 @@
 namespace Fenestron\NovaGaPageViews\Http\Controllers;
 
 use Illuminate\Routing\Controller;
-use Onefun\PageViewsList\Enums\ListCategory;
+use Fenestron\NovaGaPageViews\Enums\ListCategory;
 use Spatie\Analytics\Analytics;
 use Spatie\Analytics\Period;
 use Symfony\Component\HttpKernel\Exception\HttpException;
