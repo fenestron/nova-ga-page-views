@@ -1,16 +1,22 @@
 {
     "name": "fenestron/nova-ga-page-views",
-    "description": "A Laravel Nova card.",
+    "description": "Package for different types list in google analytics.",
     "keywords": [
         "laravel",
-        "nova"
+        "nova",
+        "google analytics"
     ],
     "license": "MIT",
+    "repositories": [
+        {
+            "type": "path",
+            "url": "../nova"
+        }
+    ],
     "require": {
         "php": ">=7.1.0",
-        "tightenco/nova-google-analytics": "^0.1.7",
         "laravel/nova": "*",
-        "spatie/laravel-analytics": "^3.6"
+        "tightenco/nova-google-analytics": "^0.1.7"
     },
     "autoload": {
         "psr-4": {
