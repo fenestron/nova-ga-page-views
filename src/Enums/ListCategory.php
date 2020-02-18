@@ -1,6 +1,6 @@
 <?php
 
-namespace Onefun\PageViewsList\Enums;
+namespace Fenestron\NovaGaPageViews\Enums;
 
 class ListCategory
 {

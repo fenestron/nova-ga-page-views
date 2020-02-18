@@ -1,6 +1,6 @@
 <?php
 
-namespace Onefun\PageViewsList\Http\Controllers;
+namespace Fenestron\NovaGaPageViews\Http\Controllers;
 
 use Illuminate\Routing\Controller;
 use Onefun\PageViewsList\Enums\ListCategory;
@@ -10,7 +10,7 @@ use Symfony\Component\HttpKernel\Exception\HttpException;
 
 /**
  * Class GetPageViews
- * @package Onefun\GetPageViews\Http\Controllers
+ * @package Fenestron\NovaGaPageViews\Http\Controllers
  */
 class GetPageViews extends Controller
 {

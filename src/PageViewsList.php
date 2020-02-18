@@ -1,6 +1,6 @@
 <?php
 
-namespace Onefun\PageViewsList;
+namespace Fenestron\NovaGaPageViews;
 
 use Laravel\Nova\Card;
 

@@ -21,13 +21,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Onefun\\PageViewsList\\": "src/"
+            "Fenestron\\NovaGaPageViews\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Onefun\\PageViewsList\\CardServiceProvider"
+                "Fenestron\\NovaGaPageViews\\CardServiceProvider"
             ]
         }
     },

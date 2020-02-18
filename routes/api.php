@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use Onefun\PageViewsList\Http\Controllers\GetPageViews;
+use Fenestron\NovaGaPageViews\Http\Controllers\GetPageViews;
 
 /*
 |--------------------------------------------------------------------------
