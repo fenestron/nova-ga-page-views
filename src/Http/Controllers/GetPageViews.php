@@ -28,7 +28,7 @@ class GetPageViews extends Controller
 
         switch (request()->get('category')) {
             case ListCategory::ALL:
-                $title = 'Просмотры по страницам';
+                $title = 'Page views';
                 break;
             case ListCategory::TOP:
                 $title = 'Топ посещаемых страниц';
